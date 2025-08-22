@@ -1,5 +1,3 @@
-## Editing...
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00ff99"/>
 
 
@@ -35,7 +33,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00ff00&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+TypeScript+and+Python+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00ff00&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+TypeScript+and+Python;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 
@@ -122,8 +120,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
 
-<div> 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilv89c&show_icons=true&theme=dark) 
-
-</div>
+<div>
