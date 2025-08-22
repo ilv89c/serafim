@@ -73,8 +73,7 @@
     height="154"
     align="center"
     alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=ilv89c-Dev&theme=dark&hide_border=false&background=000000&stroke=0fff00&fire=0fff00&currStreakNum=0fff00"
-  />
+ 
 </div>
 
 
